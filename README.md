@@ -1,16 +1,33 @@
-# React + Vite
+# Amazon Prime Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 1. Overview
 
-Currently, two official plugins are available:
+Amazon Prime Clone is a recreated web application that closely matches the original Amazon Prime Video platform in visual style, layout, and user experience. The project focuses on delivering a modern, responsive interface that accurately reflects the look and feel of Amazon Prime.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 2. Tools Used
 
-## React Compiler
+React.js – Component-based architecture for building a dynamic user interface
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Tailwind CSS – Utility-first styling for responsive and consistent design
 
-## Expanding the ESLint configuration
+VS Code Extensions – Used for color selection, UI styling, and image management
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+AI Tools – Utilized to enhance realism, visuals, and overall attractiveness
+
+Git & GitHub – Version control and source code management
+
+Vercel – Deployment and hosting platform
+
+## 3. Working
+
+The application works through smooth navigation across different sections and links.
+
+Hover effects on video thumbnails enhance user interaction.
+
+Default autoplay videos appear in banner sections to simulate a real streaming platform experience.
+
+Dynamic rendering ensures a seamless and engaging browsing flow.
+
+## 4. Conclusion
+
+This project is a modern digital replica of Amazon Prime Video, demonstrating accurate UI recreation, interactive behavior, and responsive design using React and Tailwind CSS. It showcases strong front-end development skills and attention to detail in matching a real-world streaming platform.
