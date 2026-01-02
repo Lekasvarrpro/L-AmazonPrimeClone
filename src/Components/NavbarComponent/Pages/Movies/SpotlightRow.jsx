@@ -3,21 +3,21 @@ import { FaLock } from "react-icons/fa";
 import { FaChevronLeft, FaChevronRight } from "react-icons/fa6";
 
 /* spotlight images */
-import simg1 from "../../../../assets/Movies/leaves/spotlight/simg1.jpg";
+import simg1 from "../../../../assets/Movies/leaves/Spotlight/simg1.jpg";
 import simg2 from "../../../../assets/Movies/leaves/Spotlight/simg2.jpg";
-import simg3 from "../../../../assets/Movies/leaves/spotlight/simg3.png";
-import simg4 from "../../../../assets/Movies/leaves/spotlight/simg4.jpg";
+import simg3 from "../../../../assets/Movies/leaves/Spotlight/simg3.png";
+import simg4 from "../../../../assets/Movies/leaves/Spotlight/simg4.jpg";
 import simg5 from "../../../../assets/Movies/leaves/Spotlight/simg5.jpg";
-import simg6 from "../../../../assets/Movies/leaves/spotlight/simg6.jpg";
-import simg7 from "../../../../assets/Movies/leaves/spotlight/simg7.jpg";
-import simg8 from "../../../../assets/Movies/leaves/spotlight/simg8.jpg";  
-import simg9 from "../../../../assets/Movies/leaves/spotlight/simg9.jpg";
-import simg10 from "../../../../assets/Movies/leaves/spotlight/simg10.jpg";
-import simg11 from "../../../../assets/Movies/leaves/spotlight/simg11.jpg";
-import simg12 from "../../../../assets/Movies/leaves/spotlight/simg12.jpg";
-import simg13 from "../../../../assets/Movies/leaves/spotlight/simg13.jpg";
-import simg14 from "../../../../assets/Movies/leaves/spotlight/simg14.jpg";
-import simg15 from "../../../../assets/Movies/leaves/spotlight/simg15.jpg";
+import simg6 from "../../../../assets/Movies/leaves/Spotlight/simg6.jpg";
+import simg7 from "../../../../assets/Movies/leaves/Spotlight/simg7.jpg";
+import simg8 from "../../../../assets/Movies/leaves/Spotlight/simg8.jpg";  
+import simg9 from "../../../../assets/Movies/leaves/Spotlight/simg9.jpg";
+import simg10 from "../../../../assets/Movies/leaves/Spotlight/simg10.jpg";
+import simg11 from "../../../../assets/Movies/leaves/Spotlight/simg11.jpg";
+import simg12 from "../../../../assets/Movies/leaves/Spotlight/simg12.jpg";
+import simg13 from "../../../../assets/Movies/leaves/Spotlight/simg13.jpg";
+import simg14 from "../../../../assets/Movies/leaves/Spotlight/simg14.jpg";
+import simg15 from "../../../../assets/Movies/leaves/Spotlight/simg15.jpg";
 
 const spotlightData = [
   { image: simg13, badge: false },
