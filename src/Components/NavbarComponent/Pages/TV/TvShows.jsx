@@ -9,78 +9,79 @@ import TopTenTvRow from "./TopTenTvRow.jsx";
 import primefooter from "../../../../assets/Home/primefooter.png";
 
 /* ---------- HERO ASSETS ---------- */
-import falloutbanner from "../../../../assets/TvShows/falloutbanner.jpeg";
-import fallouttitle from "../../../../assets/TvShows/fallouttitle.png";
-import common from "../../../../assets/TvShows/common.png";
+import falloutbanner from "../../../../assets/Tvshows/falloutbanner.jpeg";
+import fallouttitle from "../../../../assets/Tvshows/fallouttitle.png";
+import common from "../../../../assets/Tvshows/common.png";
 
-import fourbanner from "../../../../assets/TvShows/fourbanner.jpeg";
-import fourtitle from "../../../../assets/TvShows/fourtitle.png";
+import fourbanner from "../../../../assets/Tvshows/fourbanner.jpeg";
+import fourtitle from "../../../../assets/Tvshows/fourtitle.png";
 
-import oppobanner from "../../../../assets/TvShows/oppobanner.jpeg";
-import oppotitle from "../../../../assets/TvShows/oppotitle.png";
+import oppobanner from "../../../../assets/Tvshows/oppobanner.jpeg";
+import oppotitle from "../../../../assets/Tvshows/oppotitle.png";
 
-import maxbanner from "../../../../assets/TvShows/maxbanner.jpeg";
-import maxtitle from "../../../../assets/TvShows/maxtitle.png";
+import maxbanner from "../../../../assets/Tvshows/maxbanner.jpeg";
+import maxtitle from "../../../../assets/Tvshows/maxtitle.png";
 
-import surebanner from "../../../../assets/TvShows/surebanner.jpeg";
-import suretitle from "../../../../assets/TvShows/suretitle.png";
+import surebanner from "../../../../assets/Tvshows/surebanner.jpeg";
+import suretitle from "../../../../assets/Tvshows/suretitle.png";
 
-import familymanbanner from "../../../../assets/TvShows/familymanbanner.jpeg";
-import familymantitle from "../../../../assets/TvShows/familymantitle.png";
+import familymanbanner from "../../../../assets/Tvshows/familymanbanner.jpeg";
+import familymantitle from "../../../../assets/Tvshows/familymantitle.png";
 
-import dobanner from "../../../../assets/TvShows/dobanner.jpeg";
-import dotitle from "../../../../assets/TvShows/dotitle.png";
+import dobanner from "../../../../assets/Tvshows/dobanner.jpeg";
+import dotitle from "../../../../assets/Tvshows/dotitle.png";
 
-import wolfbanner from "../../../../assets/TvShows/wolfbanner.jpeg";
-import wolftitle from "../../../../assets/TvShows/wolftitle.png";
+import wolfbanner from "../../../../assets/Tvshows/wolfbanner.jpeg";
+import wolftitle from "../../../../assets/Tvshows/wolftitle.png";
 
 /* Row-1 Assets */
-import cimg1 from "../../../../assets/TvShows/Row1/cimg1.jpg";
-import cimg2 from "../../../../assets/TvShows/Row1/cimg2.jpg";
-import cimg3 from "../../../../assets/TvShows/Row1/cimg3.png";
-import cimg4 from "../../../../assets/TvShows/Row1/cimg4.jpg";
-import cimg5 from "../../../../assets/TvShows/Row1/cimg5.jpg";
-import cimg6 from "../../../../assets/TvShows/Row1/cimg6.jpg";
-import cimg7 from "../../../../assets/TvShows/Row1/cimg7.jpg";
-import cimg8 from "../../../../assets/TvShows/Row1/cimg8.jpg";
-import cimg9 from "../../../../assets/TvShows/Row1/cimg9.jpg";
-import cimg10 from "../../../../assets/TvShows/Row1/cimg10.png";
-import cimg11 from "../../../../assets/TvShows/Row1/cimg11.png";
-import cimg12 from "../../../../assets/TvShows/Row1/cimg12.png";
-import cimg13 from "../../../../assets/TvShows/Row1/cimg13.png";
-import cimg14 from "../../../../assets/TvShows/Row1/cimg14.png";
-import cimg15 from "../../../../assets/TvShows/Row1/cimg15.png";
-import cimg16 from "../../../../assets/TvShows/Row1/cimg16.png";
-import cimg17 from "../../../../assets/TvShows/Row1/cimg17.jpg";
-import cimg18 from "../../../../assets/TvShows/Row1/cimg18.jpg";
+import cimg1 from "../../../../assets/Tvshows/Row1/cimg1.jpg";
+import cimg2 from "../../../../assets/Tvshows/Row1/cimg2.jpg";
+import cimg3 from "../../../../assets/Tvshows/Row1/cimg3.png";
+import cimg4 from "../../../../assets/Tvshows/Row1/cimg4.jpg";
+import cimg5 from "../../../../assets/Tvshows/Row1/cimg5.jpg";
+import cimg6 from "../../../../assets/Tvshows/Row1/cimg6.jpg";
+import cimg7 from "../../../../assets/Tvshows/Row1/cimg7.jpg";
+import cimg8 from "../../../../assets/Tvshows/Row1/cimg8.jpg";
+import cimg9 from "../../../../assets/Tvshows/Row1/cimg9.jpg";
+import cimg10 from "../../../../assets/Tvshows/Row1/cimg10.png";
+import cimg11 from "../../../../assets/Tvshows/Row1/cimg11.png";
+import cimg12 from "../../../../assets/Tvshows/Row1/cimg12.png";
+import cimg13 from "../../../../assets/Tvshows/Row1/cimg13.png";
+import cimg14 from "../../../../assets/Tvshows/Row1/cimg14.png";
+import cimg15 from "../../../../assets/Tvshows/Row1/cimg15.png";
+import cimg16 from "../../../../assets/Tvshows/Row1/cimg16.png";
+import cimg17 from "../../../../assets/Tvshows/Row1/cimg17.jpg";
+import cimg18 from "../../../../assets/Tvshows/Row1/cimg18.jpg";
 
 /* Row-2 Assets */
-import dimg1 from "../../../../assets/TvShows/Row2/dimg1.png";
-import dimg2 from "../../../../assets/TvShows/Row2/dimg2.jpg";
-import dimg3 from "../../../../assets/TvShows/Row2/dimg3.jpg";
-import dimg4 from "../../../../assets/TvShows/Row2/dimg4.jpg";
-import dimg5 from "../../../../assets/TvShows/Row2/dimg5.png";
-import dimg6 from "../../../../assets/TvShows/Row2/dimg6.jpg";
-import dimg7 from "../../../../assets/TvShows/Row2/dimg7.jpg";
-import dimg8 from "../../../../assets/TvShows/Row2/dimg8.jpg";
-import dimg9 from "../../../../assets/TvShows/Row2/dimg9.jpg";
+import dimg1 from "../../../../assets/Tvshows/Row2/dimg1.png";
+import dimg2 from "../../../../assets/Tvshows/Row2/dimg2.jpg";
+import dimg3 from "../../../../assets/Tvshows/Row2/dimg3.jpg";
+import dimg4 from "../../../../assets/Tvshows/Row2/dimg4.jpg";
+import dimg5 from "../../../../assets/Tvshows/Row2/dimg5.png";
+import dimg6 from "../../../../assets/Tvshows/Row2/dimg6.jpg";
+import dimg7 from "../../../../assets/Tvshows/Row2/dimg7.jpg";
+import dimg8 from "../../../../assets/Tvshows/Row2/dimg8.jpg";
+import dimg9 from "../../../../assets/Tvshows/Row2/dimg9.jpg";
 
 /* Row-3 Assets */
-import eimg1 from "../../../../assets/TvShows/Row3/eimg1.jpg";
-import eimg2 from "../../../../assets/TvShows/Row3/eimg2.jpg";
-import eimg3 from "../../../../assets/TvShows/Row3/eimg3.png";
-import eimg4 from "../../../../assets/TvShows/Row3/eimg4.png";
-import eimg5 from "../../../../assets/TvShows/Row3/eimg5.jpg";
-import eimg6 from "../../../../assets/TvShows/Row3/eimg6.jpg";
-import eimg7 from "../../../../assets/TvShows/Row3/eimg7.jpg";
-import eimg8 from "../../../../assets/TvShows/Row3/eimg8.jpg";
-import eimg9 from "../../../../assets/TvShows/Row3/eimg9.jpg";
-import eimg10 from "../../../../assets/TvShows/Row3/eimg10.jpg";
-import eimg11 from "../../../../assets/TvShows/Row3/eimg11.jpg";
-import eimg12 from "../../../../assets/TvShows/Row3/eimg12.jpg";
-import eimg13 from "../../../../assets/TvShows/Row3/eimg13.jpg";
-import eimg14 from "../../../../assets/TvShows/Row3/eimg14.jpg";
-import eimg15 from "../../../../assets/TvShows/Row3/eimg15.jpg";
+import eimg1 from "../../../../assets/Tvshows/Row3/eimg1.jpg";
+import eimg2 from "../../../../assets/Tvshows/Row3/eimg2.jpg";
+import eimg3 from "../../../../assets/Tvshows/Row3/eimg3.png";
+import eimg4 from "../../../../assets/Tvshows/Row3/eimg4.png";
+import eimg5 from "../../../../assets/Tvshows/Row3/eimg5.jpg";
+import eimg6 from "../../../../assets/Tvshows/Row3/eimg6.jpg";
+import eimg7 from "../../../../assets/Tvshows/Row3/eimg7.jpg";
+import eimg8 from "../../../../assets/Tvshows/Row3/eimg8.jpg";
+import eimg9 from "../../../../assets/Tvshows/Row3/eimg9.jpg";
+import eimg10 from "../../../../assets/Tvshows/Row3/eimg10.jpg";
+import eimg11 from "../../../../assets/Tvshows/Row3/eimg11.jpg";
+import eimg12 from "../../../../assets/Tvshows/Row3/eimg12.jpg";
+import eimg13 from "../../../../assets/Tvshows/Row3/eimg13.jpg";
+import eimg14 from "../../../../assets/Tvshows/Row3/eimg14.jpg";
+import eimg15 from "../../../../assets/Tvshows/Row3/eimg15.jpg";
+
 
 
 /* ---------- HERO DATA ---------- */
