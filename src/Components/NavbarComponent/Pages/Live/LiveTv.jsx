@@ -7,23 +7,23 @@ import { MdInfoOutline } from "react-icons/md";
 import primefooter from "../../../../assets/Home/primefooter.png";
 
 /* ---------- IMAGES ---------- */
-import limg1 from "../../../../assets/LiveTv/limg1.jpg";
-import limg2 from "../../../../assets/LiveTv/limg2.png";
-import limg3 from "../../../../assets/LiveTv/limg3.jpg";
-import limg4 from "../../../../assets/LiveTv/limg4.jpg";
-import limg5 from "../../../../assets/LiveTv/limg5.jpg";
-import limg6 from "../../../../assets/LiveTv/limg6.jpg";
-import limg7 from "../../../../assets/LiveTv/limg7.png";
-import limg8 from "../../../../assets/LiveTv/limg8.jpg";
-import limg9 from "../../../../assets/LiveTv/limg9.png";
-import limg10 from "../../../../assets/LiveTv/limg10.png";
-import limg11 from "../../../../assets/LiveTv/limg11.png";
-import limg12 from "../../../../assets/LiveTv/limg12.png";
-import limg13 from "../../../../assets/LiveTv/limg13.jpg";
-import limg14 from "../../../../assets/LiveTv/limg14.png";
-import limg15 from "../../../../assets/LiveTv/limg15.jpg";
-import limg16 from "../../../../assets/LiveTv/limg16.jpg";
-import limg17 from "../../../../assets/LiveTv/limg17.jpg";
+import limg1 from "../../../../assets/Livetv/limg1.jpg";
+import limg2 from "../../../../assets/Livetv/limg2.png";
+import limg3 from "../../../../assets/Livetv/limg3.jpg";
+import limg4 from "../../../../assets/Livetv/limg4.jpg";
+import limg5 from "../../../../assets/Livetv/limg5.jpg";
+import limg6 from "../../../../assets/Livetv/limg6.jpg";
+import limg7 from "../../../../assets/Livetv/limg7.png";
+import limg8 from "../../../../assets/Livetv/limg8.jpg";
+import limg9 from "../../../../assets/Livetv/limg9.png";
+import limg10 from "../../../../assets/Livetv/limg10.png";
+import limg11 from "../../../../assets/Livetv/limg11.png";
+import limg12 from "../../../../assets/Livetv/limg12.png";
+import limg13 from "../../../../assets/Livetv/limg13.jpg";
+import limg14 from "../../../../assets/Livetv/limg14.png";
+import limg15 from "../../../../assets/Livetv/limg15.jpg";
+import limg16 from "../../../../assets/Livetv/limg16.jpg";
+import limg17 from "../../../../assets/Livetv/limg17.jpg";
 
 /* ---------- DATA ---------- */
 const upcomingShows = [
