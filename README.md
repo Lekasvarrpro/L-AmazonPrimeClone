@@ -31,3 +31,7 @@ Dynamic rendering ensures a seamless and engaging browsing flow.
 ## 4. Conclusion
 
 This project is a modern digital replica of Amazon Prime Video, demonstrating accurate UI recreation, interactive behavior, and responsive design using React and Tailwind CSS. It showcases strong front-end development skills and attention to detail in matching a real-world streaming platform.
+
+## 5. Deployed Link
+
+Live Demo:https://amazon-prime-lekash.vercel.app/
